@@ -1,8 +1,8 @@
 # MANUAL-INSTALACIÓN-OWNCLOUD
 
-1: "sudo apt update" para actualizar la màquina
+ "sudo apt update" para actualizar la màquina
 
-2: Seguido del update, hacemos "sudo atp update", para subirlo a la maquina.
+ Seguido del update, hacemos "sudo atp update", para subirlo a la maquina.
 
 Ahora despues de estos 2 pasos lo que vamos a hacer es una instalaion del servidor de "apache2 y lo que haremos será lo siguiente "sudo apt install -y apache2"
 
