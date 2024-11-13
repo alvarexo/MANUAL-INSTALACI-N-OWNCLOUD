@@ -18,6 +18,6 @@ Para instalar esta base de datos pondremos "sudo apt install -y mysql-server"
 
 2. sudo apt install -y php-fpm php-common php-mbstring php-xmlrpc php-soap php-gd php-xml php-intl php-mysql php-cli php-ldap php-zip php-curl 
 
-###Y para finalizar con la instalación, lo último que haremos será reiniciar el servidor de apache
+### Y para finalizar con la instalación, lo último que haremos será reiniciar el servidor de apache
 
-realizando este comando: sudo systemctl restart apache2
+ Realizando este comando: sudo systemctl restart apache2
